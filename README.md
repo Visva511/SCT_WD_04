@@ -1,7 +1,7 @@
 # To-Do-App 
 - A To-do list app made with JQuery.
   
-Live preview : (https://visva511.github.io/SCT_WD_04)
+Live preview : (https://Visva511.github.io/SCT_WD_04)
 
 ## Features
 - Add or remove to-do list items
