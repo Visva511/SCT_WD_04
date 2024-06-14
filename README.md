@@ -9,6 +9,3 @@ Live preview : (https://visva511.github.io/SCT_WD_04)
 - check and uncheck to-do list items
 - Run online and offline
 
-
-> ### If you used the To-Do-App and if it was helpful, Don't forget to give a star 🌟
->
